@@ -1,2 +1,1 @@
-# react-native-Uniquiz
-Ui lms Uniquiz
+# React_Native_Login_Registeration
